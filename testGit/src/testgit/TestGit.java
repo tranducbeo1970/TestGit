@@ -13,6 +13,9 @@ public class TestGit {
     /**
      * @param args the command line arguments
      */
+    
+    Lan 2
+    
     public static void main(String[] args) {
         // TODO code application logic here
         System.err.println("Test GIT");
