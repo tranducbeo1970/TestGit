@@ -16,6 +16,7 @@ public class TestGit {
     
     Lan 2
     Lan 3
+    Lan 4
     
     public static void main(String[] args) {
         // TODO code application logic here
